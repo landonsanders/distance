@@ -5,4 +5,4 @@ You may calculate the distance between two points in a a space using the Manhatt
 Both these algorithms are generalized by the Minkowski Distance algorithm.
 
 
-You may use algorithms like these for to do collaborative filtering. 
+You may use algorithms like these for to do collaborative filtering. For example, you could compute the distance between two users in a space.
